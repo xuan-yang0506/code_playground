@@ -1,0 +1,6 @@
+(ab){3} ababab
+(ab(c){2}){2} abccabcc
+(ab(c){3}d){1} abcccd
+(xx(a){2}b){2} xxaabxxaab
+(a(c){2}b){3} accbaccbaccb
+(xx(a(c){2}b){3}xx){5} xxaccbaccbaccbxxxxaccbaccbaccbxxxxaccbaccbaccbxxxxaccbaccbaccbxxxxaccbaccbaccbxx
